@@ -9,8 +9,8 @@ I'm **NEVIN BENO**, a **security-curious developer** sharpening my skills in sys
 ___
 ### **🚀 Current Focus**
 ```diff
-+ staff-sight: Web-based music notation trainer
-! Canvas/WebAudio rendering • localStorage encryption • Configurable drills
+! staff-sight: Web-based music notation trainer
+ Canvas/WebAudio rendering • localStorage encryption • Configurable drills
 ```
 ____
 
@@ -25,9 +25,7 @@ ____
 ## **🔬 Featured Projects**
 1. **[Secure OTP Validation Simulation](https://github.com/nevinbeno/Secure-OTP-Transaction)** : *Bash-based One-Time Password validation.*
 2. **[Inventory Management System](https://github.com/nevinbeno/Inventory-Management)** : *A secure inventory tracker with threshold alerts*
-| 🔐 Secure OTP Validator      |Bash based OTP validator with several test suites |
-| 📦 Inventory Management System|C - based inventory tracker with threshold alerts |
-|:-------------------------:|:------------------------------------------------:|
+
 ----
 ## **📊 GitHub Stats**  
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nevinbeno&show_icons=true&theme=radical&hide_title=true" style="width: 60%;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevinbeno&layout=compact&theme=radical" style="width: 38.5%;"> 
@@ -36,15 +34,20 @@ ____
 ----
 ## **🤝 Let’s Connect**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevin-beno-2b669833a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevinbeno123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nevinbeno)
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevin-beno-2b669833a/) 
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevinbeno123@gmail.com) 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nevinbeno)
+  <a href="https://www.linkedin.com/in/nevin-beno-2b669833a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:nevinbeno123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/nevinbeno">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
+
 ___
-<div align="center">
-**Now, the teaser trailer comes to an end here !<br> Visit [my_repos](https://github.com/nevinbeno?tab=repositories) to watch the full movie 😉**
+
+<div >
+<b>Now, the teaser trailer comes to an end here ! Visit <a href="https://github.com/nevinbeno?tab=repositories">my_repos</a> to watch the full movie😉</b>
 </div>
