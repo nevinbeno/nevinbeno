@@ -12,7 +12,7 @@ ___
 - Implements secure user progress tracking (localStorage encryption)  
 - Generates sight-reading drills with configurable difficulty.<br>
 
-**📚Learning:**
+**📚 Learning:**
 Core Mission : `Applying low-level security concepts to heterogeneous systems`
 
 - **Current Focus Areas:**
@@ -28,16 +28,16 @@ Core Mission : `Applying low-level security concepts to heterogeneous systems`
     - Rust only, where C meets unsafety cliffs.
     - BPF for real time security monitoring.
 
-**🤝Collaborate On:**
+**🤝 Collaborate On:**
 - Memory-safe C/WASM bridges.
 - Fuzzing audio protocols.
 - Secure visualization pipelines.
 - Red teaming creative software.<br>
 *"I break systems to make them stronger."*
 
-**⚡Fun Facts**
+**⚡Fun Facts**<br>
 Rate-limited myself into a 3-minute timeout... while testing my [OTP validator](https://github.com/nevinbeno/Secure-OTP-Transaction). Worth it.<br>
-`#SecurityTruth : Good systems punish "everyone" equally.`
+- `#SecurityTruth : Good systems punish "everyone" equally.`
 ____
 
 ## **🔧My Current Toolkit**
@@ -48,7 +48,7 @@ ____
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ----
-## **🏗️Projects and Experiments**
+## **🏗️ Projects and Experiments**
 1. **[Secure OTP Validation Simulation](https://github.com/nevinbeno/Secure-OTP-Transaction)** : *Bash-based One-Time Password validation.*
 2. **[Inventory Management System](https://github.com/nevinbeno/Inventory-Management)** : *A secure inventory tracker with threshold alerts*
 ----
