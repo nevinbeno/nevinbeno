@@ -1,8 +1,9 @@
 # **🛠️The security engineer who makes systems sing**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D18B&width=435&lines=C+Programmer;Linux+Enthusiast;Security+Explorer;Git+Wizard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D18B&width=435&lines=C+Programmer;Linux+Enthusiast;Security+Explorer;Git+Wizard)](https://git.io/typing-svg)<br>
+![Image](https://github.com/user-attachments/assets/d8103b08-db25-416d-8c4d-0b3e9d081953)<br>
 
 I'm **NEVIN BENO**, a **security-curious developer** sharpening my skills in system fundementals & security principles. I enjoy dissecting how things work - and how they break.<br>
- **⚙️Working on:** `staff-sight` - A web based music notation trainer, that:
+**⚙️Working on:** `staff-sight` - A web based music notation trainer, that:
 - Renders staff notation dynamically using Canvas/WebAudio  
 - Implements secure user progress tracking (localStorage encryption)  
 - Generates sight-reading drills with configurable difficulty.<br>
