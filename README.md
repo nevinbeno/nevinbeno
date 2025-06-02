@@ -1,6 +1,8 @@
 # **🛠️The security engineer who makes systems sing**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D18B&width=435&lines=C+Programmer;Linux+Enthusiast;Security+Explorer;Git+Wizard)](https://git.io/typing-svg)<br>
-![Image](https://github.com/user-attachments/assets/d8103b08-db25-416d-8c4d-0b3e9d081953)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=C%20Programmer;Linux%20Enthusiast;Security%20Explorer;Git%20Wizard)](https://git.io/typing-svg)<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d8103b08-db25-416d-8c4d-0b3e9d081953" width="450" alt="Demo">
+</div><br>
 
 I'm **NEVIN BENO**, a **security-curious developer** sharpening my skills in system fundementals & security principles. I enjoy dissecting how things work - and how they break.<br>
 **⚙️Working on:** `staff-sight` - A web based music notation trainer, that:
@@ -32,7 +34,7 @@ Core Mission : `Applying low-level security concepts to heterogeneous systems`
 *"I break systems to make them stronger."*
 
 **⚡Fun Facts**
-Rate-limited myself into a 3-minute timeout... while testing my [OTP validator](https://github.com/nevinbeno/Secure-OTP-Transaction). Worth it.
+Rate-limited myself into a 3-minute timeout... while testing my [OTP validator](https://github.com/nevinbeno/Secure-OTP-Transaction). Worth it.<br>
 `#SecurityTruth : Good systems punish "everyone" equally.`
 ____
 
@@ -55,7 +57,7 @@ ___
 ## **🤝 Let’s Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevin-beno-2b669833a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevinbeno123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nevinbeno)
 ___
-**Now, the teaser trailer comes to an end here !<br> Visit [my repos]() to watch the full movie 😉**
+**Now, the teaser trailer comes to an end here !<br> Visit [my_repos](https://github.com/nevinbeno?tab=repositories) to watch the full movie 😉**
