@@ -1,6 +1,6 @@
 # 🛠️The security engineer who makes systems sing
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=C%20Programmer;Linux%20Enthusiast;Security%20Explorer;Git%20Wizard)](https://git.io/typing-svg)<br>
-![](Gifs_and_images/gif.gif)
+![](Gifs_and_images/gif.gif)<br>
 I'm **NEVIN BENO**, a **security-curious developer** sharpening my skills in system fundementals & security principles. I enjoy dissecting how things work - and how they break.<br>
 ___
 ### **🚀 Current Focus**
