@@ -19,8 +19,9 @@ ____
 
 -----
 ## **🔬 Featured Projects**
-1. **[Secure OTP Validation Simulation](https://github.com/nevinbeno/Secure-OTP-Transaction)** : *Bash-based One-Time Password validation.*
-2. **[Inventory Management System](https://github.com/nevinbeno/Inventory-Management)** : *A secure inventory tracker with threshold alerts*
+1. **[2FA-Login-in-Python](https://github.com/nevinbeno/2FA-Login-in-Python)** : *Highly secure login system in Python with two-factor authentication (2FA) and robust database integration.*
+2. **[Secure OTP Validation Simulation](https://github.com/nevinbeno/Secure-OTP-Transaction)** : *Bash-based One-Time Password validation.*
+3. **[Inventory Management System](https://github.com/nevinbeno/Inventory-Management)** : *A secure inventory tracker with threshold alerts*
 ____
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nevinbeno&theme=radical&no-frame=false&no-bg=true&margin-w=4)
