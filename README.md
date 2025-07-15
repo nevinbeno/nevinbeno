@@ -3,7 +3,7 @@
 ![](Gifs_and_images/gif.gif)<br>
 I'm **NEVIN BENO**, a **security-curious developer** sharpening my skills in system fundementals & security principles. I enjoy dissecting how things work - and how they break.<br>
 ___
-### **🚀 Current Focus**
+### **Current Focus**
 ```diff
 ! staff-sight: Web-based music notation trainer
  Canvas/WebAudio rendering • localStorage encryption • Configurable drills
@@ -14,7 +14,7 @@ ____
 ### Core Strengths
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Exploring Next
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />Exploring Next
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) <br> [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-007ACC?style=for-the-badge&logo=logisim&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 -----
@@ -32,7 +32,7 @@ ____
 [![](https://raw.githubusercontent.com/nevinbeno/nevinbeno/master/profile-summary-card-output/noctis_minimus/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nevinbeno/nevinbeno/master/profile-summary-card-output/noctis_minimus/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ____
 
-## **🤝 Let’s Connect**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> Let’s Connect  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nevin-beno-2b669833a/">
