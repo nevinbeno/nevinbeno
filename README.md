@@ -45,9 +45,3 @@ ____
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
-
-----
-
-<div >
-<b>Now, the teaser trailer comes to an end here ! Visit <a href="https://github.com/nevinbeno?tab=repositories">my_repos</a> to watch the full movie😉</b>
-</div>
