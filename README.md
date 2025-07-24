@@ -31,6 +31,12 @@ ____
 [![](https://raw.githubusercontent.com/nevinbeno/nevinbeno/master/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nevinbeno/nevinbeno/master/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nevinbeno/nevinbeno/master/profile-summary-card-output/noctis_minimus/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nevinbeno/nevinbeno/master/profile-summary-card-output/noctis_minimus/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ____
+## Developer Activity: GitHub Contributions
+<div align="center">
+    <a href="https://github.com/nevinbeno">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinbeno&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Nevin%20Beno's%20GitHub%20Growth%20Log" width="96%" alt="activity graph">
+    </a>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> Let’s Connect  
 
