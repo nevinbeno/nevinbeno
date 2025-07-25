@@ -18,7 +18,7 @@ ____
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> Let’s Connect  
+## Let’s Connect  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nevin-beno-2b669833a/">
