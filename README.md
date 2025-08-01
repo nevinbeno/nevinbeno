@@ -11,7 +11,6 @@ ____
 
 -----
 ## **🔬 Featured Projects**
-1. **[2FA-Login-in-Python](https://github.com/nevinbeno/2FA-Login-in-Python)** : *Highly secure login system in Python with two-factor authentication (2FA) and robust database integration.*
 2. **[Secure OTP Validation Simulation](https://github.com/nevinbeno/Secure-OTP-Transaction)** : *Bash-based One-Time Password validation.*
 3. **[Inventory Management System](https://github.com/nevinbeno/Inventory-Management)** : *A secure inventory tracker with threshold alerts*
 ____
