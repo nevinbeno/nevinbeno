@@ -1,6 +1,4 @@
-# 🛠️The security engineer who makes systems sing
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=C%20Programmer;Linux%20Enthusiast;Security%20Explorer;Git%20Wizard)](https://git.io/typing-svg)<br>
-![](Gifs_and_images/gif.gif)<br>
+# 🛠️The security engineer who makes systems singk
 I'm **NEVIN BENO**, a **security-curious developer** sharpening my skills in system fundementals & security principles. I enjoy dissecting how things work - and how they break.<br>
 
 ____
@@ -11,8 +9,8 @@ ____
 
 -----
 ## **🔬 Featured Projects**
-2. **[Secure OTP Validation Simulation](https://github.com/nevinbeno/Secure-OTP-Transaction)** : *Bash-based One-Time Password validation.*
-3. **[Inventory Management System](https://github.com/nevinbeno/Inventory-Management)** : *A secure inventory tracker with threshold alerts*
+1. **[Secure OTP Validation Simulation](https://github.com/nevinbeno/Secure-OTP-Transaction)** : *Bash-based One-Time Password validation.*
+2. **[Inventory Management System](https://github.com/nevinbeno/Inventory-Management)** : *A secure inventory tracker with threshold alerts*
 ____
 
 
