@@ -1,4 +1,4 @@
-# 🛠️The security engineer who makes systems singk
+# 🛠️The security engineer who makes systems sing
 I'm **NEVIN BENO**, a **security-curious developer** sharpening my skills in system fundementals & security principles. I enjoy dissecting how things work - and how they break.<br>
 
 ____
