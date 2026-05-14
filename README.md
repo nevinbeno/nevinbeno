@@ -9,8 +9,9 @@ ____
 
 -----
 ## **🔬 Featured Projects**
-1. **[Secure OTP Validation Simulation](https://github.com/nevinbeno/Secure-OTP-Transaction)** : *Bash-based One-Time Password validation.*
-2. **[Inventory Management System](https://github.com/nevinbeno/Inventory-Management)** : *A secure inventory tracker with threshold alerts*
+1. **[The CRATIP](https://github.com/nevinbeno/The-CRATIP)** : *Cyber Risk Assessment & Threat Intelligence Platform*
+2. **[ROTP vs TOTP](https://github.com/nevinbeno/rotp-vs-totp)** : *Exploring OTP security: Random vs Time - Based*
+3. **[Inventory Management System](https://github.com/nevinbeno/Inventory-Management)** : *A secure inventory tracker with threshold alerts*
 ____
 
 
