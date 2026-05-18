@@ -4,10 +4,37 @@ I'm **NEVIN BENO**, a **security-curious developer** sharpening my skills in sys
 ____
 
 ## 🛠️Toolbox
-### Core Strengths
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="95">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>            
+ </tr>
+</table>
+</div>
 
------
 ## **🔬 Featured Projects**
 1. **[The CRATIP](https://github.com/nevinbeno/The-CRATIP)** : *Cyber Risk Assessment & Threat Intelligence Platform*
 2. **[ROTP vs TOTP](https://github.com/nevinbeno/rotp-vs-totp)** : *Exploring OTP security: Random vs Time - Based*
